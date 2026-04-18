@@ -27,6 +27,7 @@ The business aimed to analyze customer behavior, revenue trends, and retention p
 ###  Top Customers by Revenue
 
 Output: ![Top Customers] https://github.com/NuraMishra/SQL-Case-Study/blob/main/Top_customers.png
+
 Insight: A small group of customers contributes a significant portion of total revenue, highlighting the importance of focusing on high-value users.
 
 ---
@@ -34,6 +35,7 @@ Insight: A small group of customers contributes a significant portion of total r
 ###  Conversion Metrics
 
 Output: ![Conversion Metrics] https://github.com/NuraMishra/SQL-Case-Study/blob/main/conversion%20metric.png
+
 Insight: The overall conversion rate (~40%) is relatively low, indicating inefficiencies in converting users into paying customers.
 
 ---
@@ -41,6 +43,7 @@ Insight: The overall conversion rate (~40%) is relatively low, indicating ineffi
 ###  Funnel Analysis
 
 Output: ![Funnel Analysis] https://github.com/NuraMishra/SQL-Case-Study/blob/main/Funnel%20Analysis%20.png
+
 Insight: A major drop-off is observed between signup and purchase stages, suggesting friction in the conversion journey.
 
 ---
@@ -48,6 +51,7 @@ Insight: A major drop-off is observed between signup and purchase stages, sugges
 ###  Time Series Analysis (Revenue Trends)
 
 Output: ![Revenue Trends] https://github.com/NuraMishra/SQL-Case-Study/blob/main/time-series%20analysis.png
+
 Insight: Revenue shows fluctuations with a decline in recent months, indicating possible demand issues or ineffective campaigns.
 
 ---
@@ -55,13 +59,15 @@ Insight: Revenue shows fluctuations with a decline in recent months, indicating 
 ###  Monthly Growth Rate
 
 Output: ![Growth Rate] https://github.com/NuraMishra/SQL-Case-Study/blob/main/Growth%20Rate%20(LAG%20).png
+
 Insight: Negative growth in later months reflects a declining business performance trend.
 
 ---
 
 ###  Repeat Purchase Rate
 
-Output: ![Repeat Rate] 
+Output: !https://github.com/NuraMishra/SQL-Case-Study/blob/main/retention%20analysis.png
+
 Insight: A low repeat purchase rate (~40%) suggests weak customer retention.
 
 ---
@@ -69,6 +75,7 @@ Insight: A low repeat purchase rate (~40%) suggests weak customer retention.
 ###  Cohort Analysis
 
 Output: ![Cohort Analysis] https://github.com/NuraMishra/SQL-Case-Study/blob/main/Cohort%20Analysis%20.png
+
 Insight: Most customers drop off after the first month, indicating onboarding and engagement issues.
 
 ---
@@ -76,6 +83,7 @@ Insight: Most customers drop off after the first month, indicating onboarding an
 ###  RFM Segmentation
 
 Output: ![RFM Segmentation] https://github.com/NuraMishra/SQL-Case-Study/blob/main/RFM%20Segmentation.png
+
 Insight: Revenue is driven by a small group of high-value customers, while a large segment is at risk of churn.
 
 ---
